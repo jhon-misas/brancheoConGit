@@ -1,0 +1,1 @@
+cuantos = int(input("cuantos users quiere crear? "))
